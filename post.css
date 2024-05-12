@@ -1,0 +1,35 @@
+.post {
+    background: url(image/fon-post.jpg) no-repeat fixed center center / cover;
+}
+
+.posting {
+    max-width: 1100px;
+    margin: 30px auto;
+    width: 85%;
+    background-color: #e0ebeb;
+    border-style: solid;
+    border-color: rgb(43, 19, 99);
+    border-radius: 8px;
+}
+
+.text-post {
+    padding: 15px 25px;
+    font-size: 16px;
+}
+.text-post p {
+    margin: 0 0 10px;
+}
+
+.title-post { 
+    text-align: center;
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.image-post img{
+    padding: 10px;
+    display: block;
+    margin: auto;
+    width: 50%;
+    image-rendering: initial;
+}
